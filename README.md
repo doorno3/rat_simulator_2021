@@ -1,6 +1,5 @@
 # cocaine rat simulator 2021
 
-# cocainerats
 Small behavioural psych simulator featuring customisable rats and actions.
 
 Each day the rats pick a task to perform based on max predicted utility and their "openness to experience" trait.
