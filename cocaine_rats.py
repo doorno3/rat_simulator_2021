@@ -12,12 +12,14 @@ class Action:
         return random.randint(self.minRW, self.maxRW)
         
 cocaine   = Action("COCAINE", 0, 3)
+weed      = Action("WEED", 0, 2)
 pellets   = Action("PELLETS", 1, 2)
 social    = Action("SOCIAL ", -1, 3)
 zapper    = Action("ZAPPER ", -2, -1)
 nothing   = Action("NOTHING", 0, 0)
 
 actions = [cocaine,
+           weed,
            pellets,
            zapper,
            social,
