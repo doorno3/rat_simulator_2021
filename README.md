@@ -1,4 +1,4 @@
-# cocaine rat simulator 2021
+# rat simulator 2021
 
 Small behavioural psych simulator featuring customisable rats and actions.
 
@@ -9,7 +9,7 @@ Tasks generate utility randomly between a set min and max. Tasks and utility val
 
 - Nothing ( 0,  0)
 - Pellets ( 1,  2)
-- Cocaine ( 0,  3)
+- [Drugs] ( 0,  3)
 - Social  (-1,  2)
 - Zapper  (-2, -1)
 
